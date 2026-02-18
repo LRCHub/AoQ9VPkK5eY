@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "はじまりの日",
+  "base_artist": "スガ シカオ",
+  "createdAt": "2026-02-18T16:44:41.676903Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "はじまりの日",
+      "artist": "スガシカオ feat. Mummy-D",
+      "has_synced": true,
+      "path": "select/01_はじまりの日_スガシカオ_feat._Mummy-D.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "はじまりの日",
+      "artist": "スガシカオ feat. Mummy‐D",
+      "has_synced": true,
+      "path": "select/02_はじまりの日_スガシカオ_feat._Mummy‐D.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "はじまりの日",
+      "artist": "P-MODEL",
+      "has_synced": true,
+      "path": "select/03_はじまりの日_P-MODEL.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "はじまりの日",
+      "artist": "MK",
+      "has_synced": false,
+      "path": "select/04_はじまりの日_MK.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "はじまりの日",
+      "artist": "みなを",
+      "has_synced": true,
+      "path": "select/05_はじまりの日_みなを.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "はじまりの日 (Full Version)",
+      "artist": "みなを",
+      "has_synced": true,
+      "path": "select/06_はじまりの日_(Full_Version)_みなを.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "はじまりの日",
+      "artist": "1 FINGER",
+      "has_synced": true,
+      "path": "select/07_はじまりの日_1_FINGER.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "はじまりの日",
+      "artist": "Ai Maeda",
+      "has_synced": false,
+      "path": "select/08_はじまりの日_Ai_Maeda.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はじまりの日",
+      "artist": "スガ シカオ",
+      "has_synced": false,
+      "path": "select/pl_01_はじまりの日_スガ_シカオ.txt"
+    }
+  ]
+}
